@@ -15,3 +15,5 @@ It's a game about defeinding against aliens in outer space, before they hit the 
 <li>state-based rendering/ticking</li>
 <li>negative status effects follow you around</li>
 </ul>
+<h2>Note:</h2>
+<p>I know the code is extremely messy, but this was my first-ever java project, and it's the product of much hackery and workaroundery. I didn't even know how to inherit a class those days (september 2015).</p>
